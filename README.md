@@ -1,5 +1,4 @@
-# Sistema-Controle-Estacionamento-Python
+# Python-Parking-Control-System
  
-É um trabalho que fiz em Python, usando a biblioteca NumPy e um dicionário. 
-Consiste num sistema de controle de estacionamento onde há 3 setores (A, B e C) com 5 vagas para cada setor. O código é separado em 4 funções principais que configuram o gerenciamento do estacionamento: ocupar_vaga, que ocupa uma vaga aleatória; liberar_vaga, que libera uma vaga a escolha do usuário; exibir_vaga, que exibe todas as vagas livres no estacionamento; consultar_veiculo, que permite com que o usuário com que o usuário consulte um veículo estacionado.
+This is a project I did in Python, using the NumPy library and a dictionary. It consists of a parking control system where there are 3 sectors (A, B and C) with 5 spaces for each sector. The code is separated into 4 main functions that configure the parking management: ocupar_vaga, which occupies a random space (this function is random because it simulates a random vehicle that parked); liberar_vaga, which frees up a space chosen by the user; exibir_vaga, which displays all free spaces in the parking lot; consultar_veiculo, which allows the user to consult a parked vehicle.
 
